@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971281289757",
+    "project_id": "safety-38090",
+    "storage_bucket": "safety-38090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971281289757:android:e3e5276f402b0b54c8ecf4",
+        "android_client_info": {
+          "package_name": "hu.unideb.inf.safewalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971281289757-1sb4rknuq5iensrnlc6ercpd0ek0q9iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_RTabMF0ugHomScArV5mLzuF01rc9e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971281289757-1sb4rknuq5iensrnlc6ercpd0ek0q9iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971281289757:android:87cab52f769d56b0c8ecf4",
+        "android_client_info": {
+          "package_name": "hu.unideb.inf.womenssafetyapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971281289757-1sb4rknuq5iensrnlc6ercpd0ek0q9iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_RTabMF0ugHomScArV5mLzuF01rc9e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971281289757-1sb4rknuq5iensrnlc6ercpd0ek0q9iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
